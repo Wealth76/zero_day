@@ -1,1 +1,2 @@
-new day
+Emphasis zero day
+
